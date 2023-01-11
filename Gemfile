@@ -48,3 +48,5 @@ end
 gem 'rubocop', '>= 1.0', '< 2.0'
 # to prevent cors 
 gem 'rack-cors'
+# to check linter errors
+gem 'rubocop', '>= 1.0', '< 2.0'
