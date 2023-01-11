@@ -30,7 +30,12 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://github.com/alphayowakarindi/hello-react-front-end">React</a></li>
+  </ul>
+</details>
 <details>
   <summary>Server</summary>
   <ul>
@@ -92,7 +97,7 @@ Example command:
 
 ### Usage
 
-- Run `rails s` to start the app and visit `http://127.0.0.1:3000/api/v1/random-greeting` to fetch a random message.
+- Run `rails s -p 4000` to start the backend server. Please note, the port has to be 4000 for the API to work on [this front end](https://github.com/alphayowakarindi/hello-react-front-end).
 
 ### Run tests
 
