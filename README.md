@@ -30,7 +30,12 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://github.com/alphayowakarindi/hello-react-front-end">React</a></li>
+  </ul>
+</details>
 <details>
   <summary>Server</summary>
   <ul>
