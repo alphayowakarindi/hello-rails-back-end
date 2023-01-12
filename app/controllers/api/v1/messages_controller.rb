@@ -1,4 +1,4 @@
-class MessagesController < ApplicationController
+class Api::V1::MessagesController < ApplicationController
   def random_greeting
     @random_greeting = Message.all.sample
     render json: @random_greeting
